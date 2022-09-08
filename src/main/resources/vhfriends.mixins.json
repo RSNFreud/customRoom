@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "main.java.customroom.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"refmap": "customroom.refmap.json",
+	"mixins": [
+		"MixinNameProviderPublic"
+	],
+	"client": [],
+	"minVersion": "0.8"
+}
